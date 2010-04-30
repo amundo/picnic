@@ -1,0 +1,5 @@
+Picnic
+
+This is a tool for collecting images from the Flickr API and inserting them into a database.
+
+The images can then be tagged.
