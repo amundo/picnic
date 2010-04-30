@@ -1,0 +1,11 @@
+what's working?
+how to test?
+status of alphabet project
+ collation
+  read cldr defs
+  collation widget
+
+REFACTOR
+ picnic (flickr picture retrieval)
+ alphabet.js (alphabet collation in javascript) 
+ abecedarium (application for building web alphabet books)

@@ -1,0 +1,27 @@
+IMAGE URLS 
+http://farm1.static.flickr.com/222/477823837_af3699e833_s.jpg
+http://farm1.static.flickr.com/222/477823837_af3699e833_t.jpg
+http://farm1.static.flickr.com/222/477823837_af3699e833_m.jpg
+http://farm1.static.flickr.com/222/477823837_af3699e833.jpg
+http://farm1.static.flickr.com/222/477823837_af3699e833_b.jpg
+http://farm1.static.flickr.com/222/477823837_16e9cec20f_o.jpg
+http://farm1.static.flickr.com/222/477823837_16e9cec20f_o_d.jpg
+
+Apparently _d.jpg means "download".
+
+image page:
+
+item.link 
+http://www.flickr.com/photos/randomtruth/3582042082/
+http://www.flickr.com/photos/randomtruth/3582041648/
+another page, same guy^^
+
+http://farm4.static.flickr.com/3339/3582042082_3d79c73c98.jpg?v=0
+                                    3582041648
+http://farm4.static.flickr.com/3364/3582041648_48ecf15001.jpg?v=0
+
+
+API URLS
+http://api.flickr.com/services/rest/?&;method=flickr.people.getPublicPhotos&api_key=' + apiKey + '&user_id=29096781@N02&per_page=15&page=2&format=json&jsoncallback=?
+
+

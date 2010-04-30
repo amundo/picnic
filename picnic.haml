@@ -1,0 +1,37 @@
+!!! Transitional
+%html
+  %head
+    %meta{ :content => "text/html; charset=utf-8", "http-equiv" => "content-type" }/
+    %title
+      picnic image collection
+    %link{ :href => "picnic.css", :rel => "stylesheet", :type=> "text/css" }
+    %script{ :type => "text/javascript", :src => "js/jquery.js" }
+    -#script{ :type => "text/javascript", :src => "jquery.autogrow.js" }
+    %script{ :type => "text/javascript", :src => "picnic2.js" }
+  %body
+    %a{:href=>"about.html"} about
+    #pic
+      %form{:id=>"tag", :method=>"post", :action=>"tagimage.php"}
+        %input#translation{:type=>"text"}
+        %button#saveButton{:href=>"#"} 
+          %span.franca save
+          %span.object salvar
+      %p#citation 
+      %img{}
+      %p 
+    #add
+      #search
+        %input#query{:tabindex=>"1", :type=>"text"}
+        %button#search_button{:tabindex=>"2", :type=>"text"}
+          %span.franca search
+          %span.object baqo wa ma?u
+      #thumbs
+
+
+
+
+
+
+
+
+
